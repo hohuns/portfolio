@@ -33,8 +33,8 @@ const About = () => {
             </article>
           </div>
           <p>
-            Currently working as Junior Fullstack develoer. Always try my best
-            in my job, eagar to learn new techniques, and also trying for the
+            Currently working as Junior Full-stack developer. Always try my best
+            in my job, eager to learn new techniques, and also trying for the
             best output.
           </p>
           <a href="#contact" className="btn btn-primary">
