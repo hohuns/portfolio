@@ -11,13 +11,13 @@ import IMG7 from "../../assets/portfolio7.png";
 const Portfolio = () => {
   return (
     <section id="portfolio">
-      <h5>My Recent Work</h5>
+      <h5>My Recent Works</h5>
       <h2>Portfolio</h2>
       <div className="container portfolio__container">
         <article className="portfolio__item">
           <div className="portfolio__item-image"></div>
           <img src={IMG7} alt="" className="portfolio_item-image" />
-          <h3>All Project</h3>
+          <h3>All Projects</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://hohuns17.notion.site/d0f4974c1ab64db09ac2d6f5604eaaa6?v=c9bbc5159f04434d8d03e27d92afffb1"
@@ -25,7 +25,7 @@ const Portfolio = () => {
               target="_blank"
               rel="noreferrer"
             >
-              Show all project
+              Show all projects
             </a>
           </div>
         </article>
