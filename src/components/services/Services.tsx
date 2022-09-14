@@ -12,9 +12,7 @@ const Services = () => {
           </div>
           <ul className="service__list">
             <li>
-              <p className="service__list-date">
-                February 2022 - current / Fo Tan
-              </p>
+              <p className="service__list-date">February 2022 - current</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
@@ -46,9 +44,7 @@ const Services = () => {
           </div>
           <ul className="service__list">
             <li>
-              <p className="service__list-date">
-                June 2021 - August 2021 / Hung Hum
-              </p>
+              <p className="service__list-date">June 2021 - August 2021</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
@@ -77,9 +73,7 @@ const Services = () => {
           </div>
           <ul className="service__list">
             <li>
-              <p className="service__list-date">
-                January 2020 - May,2020 / Hong Kong science park
-              </p>
+              <p className="service__list-date">January 2020 - May 2020</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
