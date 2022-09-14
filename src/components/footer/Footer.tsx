@@ -17,7 +17,7 @@ const Footer = () => {
           <a href="#experience">Experience</a>
         </li>
         <li>
-          <a href="#service">Service</a>
+          <a href="#service">Working Experience</a>
         </li>
         <li>
           <a href="#portfolio">Portfolio</a>
@@ -27,7 +27,7 @@ const Footer = () => {
         </li>
       </ul>
       <div className="footer__copyright">
-        <small>&copy; JOO SUNG JAE JOO. All rughts reserved</small>
+        <small>&copy;2022 JOO SUNG JAE JOO HANS. All rights reserved</small>
       </div>
     </footer>
   );
