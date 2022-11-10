@@ -1,3 +1,8 @@
+#contact {
+  border-radius: 1.2rem;
+  padding: 20px;
+  background-color: var(--color-bg-variant);
+}
 .container.contact__container {
   width: 58%;
   display: grid;
@@ -12,7 +17,7 @@
 }
 
 .contact__option {
-  background: var(--color-bg-variant);
+  background: var(--color-bg);
   padding: 1.2rem;
   border-radius: 1.2rem;
   text-align: center;

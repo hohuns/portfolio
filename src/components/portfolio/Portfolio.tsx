@@ -7,6 +7,8 @@ import IMG4 from "../../assets/portfolio4.png";
 import IMG5 from "../../assets/portfolio5.png";
 import IMG6 from "../../assets/portfolio6.png";
 import IMG7 from "../../assets/portfolio7.png";
+import IMG8 from "../../assets/portfolio8.png";
+import IMG9 from "../../assets/portfolio9.png";
 
 const Portfolio = () => {
   return (
@@ -31,14 +33,37 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image"></div>
-          <img src={IMG1} alt="" className="portfolio_item-image" />
-          <h3>(👨‍💻)echoMe</h3>
+          <img src={IMG9} alt="" className="portfolio_item-image" />
+          <h3>(👨‍💻)Hans Template</h3>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://hohuns17.notion.site/HANS-TEMPLATE-1618be2f46734adbad1468e130b6950b"
+              className="btn"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Project Info
+            </a>
+            <a
+              href="https://hohuns.github.io/Hans-Template/#/home"
+              className="btn btn-primary"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image"></div>
+          <img src={IMG8} alt="" className="portfolio_item-image" />
+          <h3>Warehouse Execution System</h3>
           <div className="portfolio__item-cta">
             <a
               className="btn"
               target="_blank"
               rel="noreferrer"
-              onClick={() => alert("Currently working on this project.")}
+              onClick={() => alert("Currently working on this project. 🤠")}
             >
               Project Info
             </a>
@@ -46,7 +71,34 @@ const Portfolio = () => {
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
-              onClick={() => alert("Currently working on this project.")}
+              onClick={() => alert("Currently working on this project. 🤠")}
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image"></div>
+          <img src={IMG1} alt="" className="portfolio_item-image" />
+          <h3>(👨‍💻)echoMe</h3>
+          <div className="portfolio__item-cta">
+            <a
+              className="btn"
+              target="_blank"
+              rel="noreferrer"
+              href="https://hohuns17.notion.site/EchoMe-Warehouse-Management-System-56a3e78f553d46998076663498ee9794"
+            >
+              Project Info
+            </a>
+            <a
+              className="btn btn-primary"
+              target="_blank"
+              rel="noreferrer"
+              onClick={() =>
+                alert(
+                  "This cannot be demonstrated due to assets of my company. Plase watch project info for details. 🫡"
+                )
+              }
             >
               Live Demo
             </a>
