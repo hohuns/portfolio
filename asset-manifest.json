@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5fc6caf2.css",
-    "main.js": "/static/js/main.be6a7108.js",
+    "main.css": "/static/css/main.6e6191b5.css",
+    "main.js": "/static/js/main.f46e0f9c.js",
     "static/media/portfolio4.png": "/static/media/portfolio4.a8d410be0f273f3fa633.png",
     "static/media/portfolio1.png": "/static/media/portfolio1.83dbfc9adaaadc246ef7.png",
     "static/media/portfolio5.png": "/static/media/portfolio5.6c7a39ef98d6ff9daadb.png",
@@ -9,15 +9,17 @@
     "static/media/portfolio7.png": "/static/media/portfolio7.dd9b9010b45f6f46dab5.png",
     "static/media/portfolio2.png": "/static/media/portfolio2.fa99597c09274d245160.png",
     "static/media/portfolio3.png": "/static/media/portfolio3.59ed3d211faf98f1aed0.png",
+    "static/media/portfolio9.png": "/static/media/portfolio9.46eecdfc265451167150.png",
+    "static/media/portfolio8.png": "/static/media/portfolio8.1de9805095e826ee60d6.png",
     "static/media/about-me.png": "/static/media/about-me.b17c3cbac5b3fc4d96be.png",
     "static/media/me.png": "/static/media/me.c2a2c2bd692d27aa3459.png",
-    "static/media/JOOSUNGJAE CV.pdf": "/static/media/JOOSUNGJAE CV.4336bc7b5d811850adc2.pdf",
+    "static/media/JOOSUNGJAE CV.pdf": "/static/media/JOOSUNGJAE CV.5226ee56cf3e75d793d6.pdf",
     "index.html": "/index.html",
-    "main.5fc6caf2.css.map": "/static/css/main.5fc6caf2.css.map",
-    "main.be6a7108.js.map": "/static/js/main.be6a7108.js.map"
+    "main.6e6191b5.css.map": "/static/css/main.6e6191b5.css.map",
+    "main.f46e0f9c.js.map": "/static/js/main.f46e0f9c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fc6caf2.css",
-    "static/js/main.be6a7108.js"
+    "static/css/main.6e6191b5.css",
+    "static/js/main.f46e0f9c.js"
   ]
 }
