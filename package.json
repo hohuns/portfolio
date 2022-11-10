@@ -48,5 +48,5 @@
   "devDependencies": {
     "gh-pages": "^4.0.0"
   },
-  "proxy": "http://hohuns.dothome.co.kr/"
+  "homepage": "https://hohuns.github.io/portfolio/"
 }
