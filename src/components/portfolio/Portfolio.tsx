@@ -96,7 +96,7 @@ const Portfolio = () => {
               rel="noreferrer"
               onClick={() =>
                 alert(
-                  "This cannot be demonstrated due to assets of my company. Plase watch project info for details. 🫡"
+                  "This cannot be demonstrated due to assets of my company. Plaase watch project info for details. 🫡"
                 )
               }
             >
